@@ -1,9 +1,6 @@
 # ASA_Linux_Server
 Helper Scripts to get Your ASA dedicated Server Running through Docker
 
-# ASA_Linux_Server
-Helper Scripts to get Your ASA dedicated Server Running through Docker
-
 ##Getting Started
 
 You'll need some prerequisites such as docker with the compose plugin, wget, and tar. 
