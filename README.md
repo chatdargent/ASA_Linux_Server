@@ -18,7 +18,7 @@ cd ASA_Linux_Server.git
 
 #For example, the command to set up my server was this:
 ./new_instance.sh TheIsland TheIsland_WP 7777 27015 "-NoBattlEye -UseDynamicConfig"
-#It's important that the options be in quotes or only the first will be taken"
+#It's important that the options be in quotes or only the first will be taken
 
 #cd <Instance Name>
 cd TheIsland
