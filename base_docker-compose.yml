@@ -6,7 +6,6 @@ services:
         tty: true
         image: scottyhardy/docker-wine
         command: start.sh
-#        user: 1010:1010
         volumes:
             - ../proton:/proton
             - ../server:/server
