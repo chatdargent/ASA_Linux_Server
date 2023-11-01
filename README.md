@@ -18,7 +18,7 @@ Helper Scripts to get Your Ark: Survival Ascended dedicated Server Running throu
 ### Creating Instances
    - Run the instance creation script: `./new_instance.sh <InstanceName> <MapName> <Port> <SteamPort> "<Options>"`
      
-   This will create a new folder at ./InstanceName with a generated docker-compose.yml for you to get started.
+   This will create a new folder at ./<InstanceName> with a generated docker-compose.yml for you to get started.
    
    Be careful to make sure you bump port numbers by two for each instance if you want to run multiple instances. 
    
