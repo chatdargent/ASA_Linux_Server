@@ -21,7 +21,7 @@ echo 'GID='$(id -g) >> .env
 
 echo '#!/bin/bash' > start.sh
 echo 'sleep 2' >> start.sh
-echo "bash xvfb-run /proton/bin/wine /server/ShooterGame/Binaries/Win64/ArkAscendedServer.exe $MAP?listen?Port=$PORT?QueryPort=$QUERY_PORT $OPTIONS" >> start.sh
+echo "bash xvfb-run -a /proton/bin/wine /server/ShooterGame/Binaries/Win64/ArkAscendedServer.exe $MAP?listen?Port=$PORT?QueryPort=$QUERY_PORT $OPTIONS" >> start.sh
 chmod +x start.sh
 
 cp ../base_docker-compose.yml docker-compose.yml
