@@ -3,7 +3,11 @@ Helper Scripts to get Your Ark: Survival Evolved dedicated Server Running throug
 
 ## Getting Started
 
-You'll need some prerequisites such as docker with the compose plugin, wget, and tar. 
+### Prerequisites:
+  - steamcmd
+  - wget
+  - tar
+  - docker (with compose plugin)
 
 Once you've got those:
 
