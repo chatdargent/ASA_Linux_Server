@@ -4,10 +4,10 @@ Helper Scripts to get Your Ark: Survival Evolved dedicated Server Running throug
 ## Getting Started
 
 ### Prerequisites:
-  - steamcmd
+  - [steamcmd](https://developer.valvesoftware.com/wiki/SteamCMD#Linux)
   - wget
   - tar
-  - docker (with compose plugin)
+  - [docker](https://docs.docker.com/engine/) (with [compose plugin](https://docs.docker.com/compose/install/linux/))
 
 Once you've got those:
 
