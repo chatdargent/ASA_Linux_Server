@@ -29,7 +29,12 @@ Helper Scripts to get Your Ark: Survival Ascended dedicated Server Running throu
    cd <Instance Name>
    docker compose up -d
    ```
-   If the server started successfully, your GameUserSettings.ini should be in ./config. At the bottom you will see your session name which is the name you can search for in the client in order to find your server, and you can change that and any other settings you may wish to change.
+   If the server started successfully, your GameUserSettings.ini should be in ./config. 
+   
+   At the bottom you will see your session name which is the name you can search for in the client in order to find your server, and you can change that and any other settings you may wish to change.
+   
    If any step in this process didn't work for you, please open an issue. I only have arch to test on, and so it's only been tested on arch.
+
+
 
    Thanks to [https://github.com/scottyhardy](Scotty Hardy) for his awesome docker-wine image which served as the basis for this project. 
