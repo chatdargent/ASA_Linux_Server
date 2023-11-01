@@ -37,4 +37,4 @@ Helper Scripts to get Your Ark: Survival Ascended dedicated Server Running throu
 
 
 
-   Thanks to [https://github.com/scottyhardy](ScottyHardy) for his awesome docker-wine image which served as the basis for this project. 
+   Thanks to [Scotty Hardy](https://github.com/scottyhardy) for his awesome docker-wine image which served as the basis for this project. 
