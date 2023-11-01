@@ -1,5 +1,5 @@
 # ASA_Linux_Server
-Helper Scripts to get Your Ark: Survival Evolved dedicated Server Running through Docker
+Helper Scripts to get Your Ark: Survival Ascended dedicated Server Running through Docker
 
 ## Getting Started
 
